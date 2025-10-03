@@ -1,0 +1,53 @@
+# -----------------
+# Python
+# -----------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# -----------------
+# Data / large files
+# -----------------
+*.pbix        # Power BI dashboards
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.bak
+*.db
+*.sqlite
+
+# Media
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.mp3
+*.wav
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
